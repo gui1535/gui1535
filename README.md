@@ -3,7 +3,6 @@
 Here are some ideas to get you started:
 
 - 🌱 Estudante de técnico em informática
-- 📫 Contate-me no email: guilherme.araujo1535@gmail.com
 
 <div align="center">
   <a href="https://github.com/gui1535">
