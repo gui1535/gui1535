@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Guilherme Araujo
 
-Here are some ideas to get you started:
-
 - 🌱 Estudante de técnico em informática
 
 <div align="center">
