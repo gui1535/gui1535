@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gui Araujo
+### Olá! Eu sou o Guilherme Araujo
 
 - 🌱 Estudante de técnico em informática
 
