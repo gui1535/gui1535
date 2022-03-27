@@ -3,7 +3,7 @@
 - 🌱 Estudante de técnico em informática
 
 <div align="center">
-  <a href="https://github.com/gui1535">
+  <a href="https://github.com/gui153">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui1535&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui1535&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -13,7 +13,7 @@
   <img align="center" alt="Gui-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Gui-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://cdn-icons.flaticon.com/png/512/3242/premium/3242257.png?token=exp=1648408291~hmac=99e803f0e57cdcea5b6e715170e4f69a">
+  <img align="right" alt="Gui" height="150" style="border-radius:50px;" src="https://cdn-icons.flaticon.com/png/512/3242/premium/3242257.png?token=exp=1648408291~hmac=99e803f0e57cdcea5b6e715170e4f69a">
 </div>
    
   ##
