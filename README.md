@@ -1,5 +1,6 @@
 ## Olá, eu sou Guilherme Araujo
-<div align="center" background-color="black">
+<div background-color="black">
+<div align="center">
   <a href="https://github.com/gui1535">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui1535&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui1535&layout=compact&langs_count=7&theme=dark"/>
@@ -23,3 +24,4 @@
   ![Snake animation](https://github.com/gui1535/gui1535/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  </div>
