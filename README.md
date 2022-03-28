@@ -12,7 +12,7 @@
   <img align="center" alt="Gui-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Gui-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Gui-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-  <img align="right" alt="Gui" height="150" style="border-radius:50px;" src="https://cdn-icons.flaticon.com/png/512/3242/premium/3242257.png?token=exp=1648408291~hmac=99e803f0e57cdcea5b6e715170e4f69a">
+  <img align="right" alt="Gui" height="150" style="border-radius:50px;" src="https://github.com/gui1535/gui1535/blob/main/face.png">
 </div>
    
   ##
