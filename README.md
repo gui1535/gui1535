@@ -25,7 +25,7 @@
   ![Snake animation](https://github.com/gui1535/gui1535/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-  ## 📊 Github Stats (Expand to View)
+  ## 📊 Github Stats
   
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
