@@ -21,18 +21,15 @@
   <a href = "mailto:guilherme.araujo1535@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilhermearaujo1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://t.me/Guilhermearaujo01" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-  
   ![Snake animation](https://github.com/gui1535/gui1535/blob/output/github-contribution-grid-snake.svg)
 </div>
-	
   ## 📊 Github Stats
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
       <a href="https://github.com/gui1535"><img src="https://activity-graph.herokuapp.com/graph?username=gui1535&custom_title=Guilherme%20Araujo's%20Contribution%20Graph&theme=react-dark" /></a>
 	</p>
-  <br/>
-	
+  <br/>	
   <summary><b>⚡ My favorite repositories</b></summary>
   <br/>
    <p align="center">
