@@ -58,4 +58,4 @@
  
 <p><a href="https://www.buymeacoffee.com/gui1535"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ItsShyam" />
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Gui1535+thanks+for+your+visit!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Gui1535+thanks+for+your+visit!)]()
