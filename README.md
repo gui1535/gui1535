@@ -26,7 +26,6 @@
 </div>
 	
   ## 📊 Github Stats
-	
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
