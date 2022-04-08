@@ -54,10 +54,9 @@
     <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=Calculo_PesoIdeal&theme=react&" />
   </a>
 </p>
-  <br/>
   
   ##
  
 <p><a href="https://www.buymeacoffee.com/gui1535"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ItsShyam" />
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Gui1535+Thanks+for+your+visit!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Gui1535+thanks+for+your+visit!)](https://git.io/typing-svg)
