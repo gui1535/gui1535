@@ -27,16 +27,15 @@
 
   ## 📊 Github Stats (Expand to View)
   
-  <details> 
+
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
       <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gui1535&custom_title=Guilherme%20Araujo's%20Contribution%20Graph&theme=react-dark" /></a>
 	</p>
   <br/>
-</details>
 
-<details>
+
   <summary><b>⚡ My favorite repositories</b></summary>
   <br/>
    <p align="center">
@@ -59,7 +58,7 @@
 </p>
   <br/>
 
-</details>
+
   
      
   ##
