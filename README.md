@@ -1,4 +1,4 @@
-## Olá, eu sou Guilherme Araujo <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px">
+## Hi, I'm Guilherme Araujo <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px">
 <div align="center">
   <a href="https://github.com/gui1535">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui1535&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
@@ -25,3 +25,45 @@
   ![Snake animation](https://github.com/gui1535/gui1535/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+  ## 📊 Github Stats (Expand to View)
+  
+  <details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+      <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gui1535&custom_title=Guilherme%20Araujo's%20Contribution%20Graph&theme=react-dark" /></a>
+	</p>
+  <br/>
+</details>
+
+<details>
+  <summary><b>⚡ My favorite repositories</b></summary>
+  <br/>
+   <p align="center">
+  <a href="https://github.com/gui1535/JoKenPo">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=JoKenPo&theme=react" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://github.com/gui1535/Bootstrap_Finans">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=Bootstrap_Finans&theme=react" />
+  </a>
+  <span>&nbsp;</span>
+  <br/>
+  <a href="https://github.com/gui1535/Laravel_SuperGestao">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=Laravel_SuperGestao&theme=react" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://github.com/gui1535/Calculo_PesoIdeal">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=Calculo_PesoIdeal&theme=react&" />
+  </a>
+</p>
+  <br/>
+
+</details>
+  
+     
+  ##
+ 
+<p><a href="https://www.buymeacoffee.com/gui1535"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ItsShyam" />
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Gui1535+Thanks+for+your+visit!)](https://git.io/typing-svg)
