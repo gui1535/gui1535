@@ -34,6 +34,7 @@
       <a href="https://github.com/gui1535"><img src="https://activity-graph.herokuapp.com/graph?username=gui1535&custom_title=Guilherme%20Araujo's%20Contribution%20Graph&theme=react-dark" /></a>
 	</p>
   <br/>	
+	
   <summary><b>⚡ My favorite repositories</b></summary>
   <br/>
    <p align="center">
