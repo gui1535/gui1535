@@ -52,6 +52,7 @@
   <a href="https://github.com/gui1535/Calculo_PesoIdeal">
     <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=Calculo_PesoIdeal&theme=react&" />
   </a>
+	   
 </p>
   
   ##
