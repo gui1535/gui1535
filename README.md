@@ -1,4 +1,4 @@
-## Hi, I'm Guilherme Araujo <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px">
+## Hi, I'm Guilherme Araujo
 <div align="center">
   <a href="https://github.com/gui1535">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui1535&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
