@@ -49,12 +49,12 @@
   </a>
   <span>&nbsp;</span>
   <br/>
-  <a href="https://github.com/gui1535/Laravel_SuperGestao">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=Laravel_SuperGestao&theme=react" />
+  <a href="https://github.com/gui1535/Gerador_Senha">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=Gerador_Senha&theme=react" />
   </a> 
   <span>&nbsp;</span>
   <a href="https://github.com/gui1535/gui1535.github.io">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=Calculo_PesoIdeal&theme=react&" />
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=gui1535.github.io&theme=react&" />
   </a>
 </p>
   
