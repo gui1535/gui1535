@@ -53,7 +53,7 @@
     <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=Laravel_SuperGestao&theme=react" />
   </a> 
   <span>&nbsp;</span>
-  <a href="https://github.com/gui1535/Calculo_PesoIdeal">
+  <a href="https://github.com/gui1535/gui1535.github.io">
     <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=Calculo_PesoIdeal&theme=react&" />
   </a>
 </p>
