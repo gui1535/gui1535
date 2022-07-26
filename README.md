@@ -1,4 +1,5 @@
 ## Hi, I'm Guilherme Araujo
+
 <div align="center">
   <a href="https://github.com/gui1535">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui1535&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
@@ -63,6 +64,5 @@
 <p><a href="https://www.buymeacoffee.com/gui1535"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ItsShyam" />
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Gui1535+thanks+for+your+visit!)]()
-
-  Projeto em desenvolvimento -> https://github.com/zinx-food/Web_food
 	
+####  Projeto em desenvolvimento -> https://github.com/zinx-food/Web_food
