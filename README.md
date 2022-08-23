@@ -1,5 +1,5 @@
 ## Hi, I'm Guilherme Araujo
-#### Projeto em Desenvolvimento -> [Ecommerce](https://github.com/gui1535/ecommerce#-come%C3%A7ando)
+#### Projeto em Desenvolvimento -> [Ecommerce](https://github.com/gui1535/ecommerce#readme)
 ##
 <div align="center">
   <a href="https://github.com/gui1535">
