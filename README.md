@@ -1,5 +1,6 @@
 ## Hi, I'm Guilherme Araujo
-
+##### Projeto em Desenvolvimento -> https://github.com/gui1535/ecommerce
+##
 <div align="center">
   <a href="https://github.com/gui1535">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui1535&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
@@ -65,4 +66,3 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Gui1535+thanks+for+your+visit!)]()
 	
-####  Projeto em desenvolvimento -> https://github.com/gui1535/ecommerce
