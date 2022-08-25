@@ -51,8 +51,8 @@
   </a>
   <span>&nbsp;</span>
   <br/>
-  <a href="https://github.com/gui1535/Gerador_Senha">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=Gerador_Senha&theme=react" />
+  <a href="https://github.com/gui1535/ecommerce">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=ecommerce&theme=react" />
   </a> 
   <span>&nbsp;</span>
   <a href="https://github.com/gui1535/gui1535.github.io">
