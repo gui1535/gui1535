@@ -37,9 +37,9 @@
 	</p>
   <br/>	
 	
-  <summary><b>⚡ My favorite repositories</b></summary>
+<!--   <summary><b>⚡ My favorite repositories</b></summary>
   <br/>
-   <p align="center">
+<p align="center">
   <a href="https://github.com/gui1535/JoKenPo">
     <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=JoKenPo&theme=react" />
   </a>
@@ -56,7 +56,7 @@
   <a href="https://github.com/gui1535/gui1535.github.io">
     <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=gui1535.github.io&theme=react&" />
   </a>
-</p>
+</p> -->
   
   ##
  
