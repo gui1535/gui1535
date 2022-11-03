@@ -37,26 +37,18 @@
 	</p>
   <br/>	
 	
-<!--   <summary><b>⚡ My favorite repositories</b></summary>
+  <summary><b>⚡ My best projects</b></summary>
   <br/>
 <p align="center">
-  <a href="https://github.com/gui1535/JoKenPo">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=JoKenPo&theme=react" />
+  <a href="https://github.com/gui1535/FeedBeasy">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=FeedBeasy&theme=react" />
   </a>
   <span>&nbsp;</span>
-  <a href="https://github.com/gui1535/Bootstrap_Finans">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=Bootstrap_Finans&theme=react" />
+  <a href="https://github.com/gui1535/FeedBack-app">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=FeedBack-app&theme=react" />
   </a>
-  <span>&nbsp;</span>
-  <br/>
-  <a href="https://github.com/gui1535/ecommerce">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=ecommerce&theme=react" />
-  </a> 
-  <span>&nbsp;</span>
-  <a href="https://github.com/gui1535/gui1535.github.io">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=gui1535.github.io&theme=react&" />
-  </a>
-</p> -->
+  <span>&nbsp;</span
+</p> 
   
   ##
  
