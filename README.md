@@ -37,7 +37,7 @@
       <a href="https://github.com/gui1535"><img src="https://activity-graph.herokuapp.com/graph?username=gui1535&custom_title=Guilherme%20Araujo's%20Contribution%20Graph&theme=react-dark" /></a>
 	</p>
   <br/>	
-	
+<!-- 	
   <summary><b>⚡ My best projects</b></summary>
   <br/>
 <p align="center">
@@ -50,8 +50,7 @@
   </a>
   <span>&nbsp;</span
 </p> 
-  
-  ##
+  ## -->
  
 <p><a href="https://www.buymeacoffee.com/gui1535"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ItsShyam" />
   
