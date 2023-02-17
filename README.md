@@ -28,14 +28,6 @@
   ![Snake animation](https://github.com/gui1535/gui1535/blob/output/github-contribution-grid-snake.svg)
 </div>
 	
-  ## 📊 Github Stats
-	
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-      <a href="https://github.com/gui1535"><img src="https://activity-graph.herokuapp.com/graph?username=gui1535&custom_title=Guilherme%20Araujo's%20Contribution%20Graph&theme=react-dark" /></a>
-	</p>
-  <br/>	
 <!-- 	
   <summary><b>⚡ My best projects</b></summary>
   <br/>
