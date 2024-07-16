@@ -1,4 +1,4 @@
-## Olá, eu sou Guilherme Araujo
+## Olá, eu sou Guilherme
 <div align="center">
   <a href="https://github.com/gui1535">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui1535&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
@@ -22,13 +22,25 @@
 </div>
 	
   ##
- 
+
 <div> 
   <a href="https://www.linkedin.com/in/guilhermearaujo1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/gui1535/gui1535/blob/output/github-contribution-grid-snake.svg)
 </div>
-	
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
 <!-- 	
   <summary><b>⚡ My best projects</b></summary>
   <br/>
@@ -42,8 +54,8 @@
   </a>
   <span>&nbsp;</span
 </p> 
-  ## -->
+  ## 
  
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Gui1535+thanks+for+your+visit!)]()
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Gui1535+thanks+for+your+visit!)]() -->
 	
