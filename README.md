@@ -53,7 +53,3 @@
   <span>&nbsp;</span
 </p> 
   ## 
- 
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Gui1535+thanks+for+your+visit!)]() -->
-	
