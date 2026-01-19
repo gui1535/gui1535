@@ -1,55 +1,60 @@
-## Olá, eu sou Guilherme
+## 👋 Olá, eu sou o Guilherme
+
+💻 Desenvolvedor **Full Stack**, com foco em **backend**, APIs REST e bancos de dados.  
+📱 Atuo no desenvolvimento de aplicações **web e mobile**, sempre buscando boas práticas, código limpo e soluções escaláveis.  
+🚀 Estou em constante evolução profissional e gosto de transformar ideias em produtos reais.
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
   <a href="https://github.com/gui1535">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui1535&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui1535&layout=compact&langs_count=7&theme=dark"/>
-</div>
-	
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gui-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Gui-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Gui-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-Boostrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Gui-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
-  <img align="center" alt="Gui-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Gui-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-  <img align="center" alt="Gui-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gui1535&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui1535&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 
- ###
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+</div>
+
+---
+
+## 🍽️ Projeto em Destaque – Assistente de Cozinha Inteligente
+
+Estou desenvolvendo um **aplicativo próprio** focado em **organização alimentar**, que utiliza **inteligência artificial** para auxiliar no gerenciamento de ingredientes, receitas, planejamento de refeições e lista de compras.
+
+O objetivo do projeto é oferecer uma solução prática para o dia a dia, com:
+- Sugestão de receitas com base nos ingredientes disponíveis  
+- Planejamento semanal de refeições  
+- Funcionamento **offline-first**, com sincronização posterior  
+- Estrutura pensada para **monetização** e publicação na **Play Store**
+
+Para organizar melhor o desenvolvimento, criei uma **organização no GitHub** onde centralizo todos os repositórios relacionados ao app:
+
+🔗 **Organização:** https://github.com/Assistente-de-Cozinha-Inteligente
+
+---
+
+### 🌐 Conecte-se comigo
 
 <div>
-  <a href="https://www.linkedin.com/in/guilhermearaujo1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-   <!--![Snake animation](https://github.com/gui1535/gui1535/blob/output/github-contribution-grid-snake.svg) -->
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<!-- 	
-  <summary><b>⚡ My best projects</b></summary>
-  <br/>
-<p align="center">
-  <a href="https://github.com/gui1535/FeedBeasy">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=FeedBeasy&theme=react" />
+  <a href="https://www.linkedin.com/in/guilhermearaujo1/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <span>&nbsp;</span>
-  <a href="https://github.com/gui1535/FeedBack-app">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=FeedBack-app&theme=react" />
-  </a>
-  <span>&nbsp;</span
-</p> 
-  ## 
+</div>
