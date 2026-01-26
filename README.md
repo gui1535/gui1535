@@ -35,22 +35,6 @@
 
 ---
 
-## 🍽️ Projeto em Destaque – Assistente de Cozinha Inteligente
-
-Estou desenvolvendo um **aplicativo próprio** focado em **organização alimentar**, que utiliza **inteligência artificial** para auxiliar no gerenciamento de ingredientes, receitas, planejamento de refeições e lista de compras.
-
-O objetivo do projeto é oferecer uma solução prática para o dia a dia, com:
-- Sugestão de receitas com base nos ingredientes disponíveis  
-- Planejamento semanal de refeições  
-- Funcionamento **offline-first**, com sincronização posterior  
-- Estrutura pensada para **monetização** e publicação na **Play Store**
-
-Para organizar melhor o desenvolvimento, criei uma **organização no GitHub** onde centralizo todos os repositórios relacionados ao app:
-
-🔗 **Organização:** https://github.com/Assistente-de-Cozinha-Inteligente
-
----
-
 ### 🌐 Conecte-se comigo
 
 <div>
